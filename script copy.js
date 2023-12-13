@@ -20,7 +20,7 @@ function calcular() {
         DIA.style.display = "none"; 
         return;
     }
-
+    ERROR.style.display = "none";
    
 
     if (peso <= 30) {
